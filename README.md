@@ -39,6 +39,7 @@ Traditional residual quantization methods rely on static codebooks shared across
 RQ-MoE addresses this challenge through a hierarchical Mixture-of-Experts (MoE) architecture combined with a dual-stream residual quantization mechanism. The framework enables expressive input-adaptive quantization while supporting partially parallel decoding during inference.
 
 <p align="center"> <img src="assets/overview.png" width="100%"> </p>
+
 ---
 
 # 🔥 Motivation
