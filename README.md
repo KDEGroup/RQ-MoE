@@ -1,6 +1,3 @@
-# RQ-MoE
-
-
 <h2 align="center">
 RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression
 </h2>
